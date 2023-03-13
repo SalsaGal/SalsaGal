@@ -1,6 +1,6 @@
 ### Heya
 
-I'm Emily (she/her), I'm a computer nerd (obviously) who loves messing with Rust :D
+I'm Emily (she/her), I'm a computer nerd (obviously) who loves messing with Rust :D Feel free to contact me and say hi
 
 Languages (in order of proficiency):
  - Rust
@@ -14,8 +14,6 @@ Interests:
  - Metal
  - Speedcubing
  - Surrealism
- 
-Find me on [Twitter](https://twitter.com/sa1sa_ga1)
 
 <!--
 **SalsaGal/SalsaGal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
