@@ -6,8 +6,8 @@ Languages (in order of proficiency):
  - Rust
  - Assembly
  - C/++
- - Zig
  - Haskell
+ - Zig
 
 Interests:
  - Bass
