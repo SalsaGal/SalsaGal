@@ -13,7 +13,7 @@ Interests:
  - Bass
  - Metal
  - Speedcubing
- - Surrealism
+ - Photography
 
 <!--
 **SalsaGal/SalsaGal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
